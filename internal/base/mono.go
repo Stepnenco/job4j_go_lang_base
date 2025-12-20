@@ -1,7 +1,5 @@
 package base
 
-import "fmt"
-
 func Mono(nums []int) bool {
 	size := len(nums)
 
